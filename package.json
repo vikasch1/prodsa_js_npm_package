@@ -6,6 +6,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url":"https://github.com/vikasch1/prodsa_js_npm_package"
+
+  },
   "author": "Vikas Chaudhary",
   "license": "ISC"
 }
